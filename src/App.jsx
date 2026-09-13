@@ -14,7 +14,7 @@ const profile = {
 const experience = [
   { period: '2023 to 2024', title: 'Content Writer | Research & Information Quality', company: 'Tellychakkar', description: 'Research, collect, organize, and verify information from multiple sources. Analyze large amounts of information, identify relevant data points, maintain structured documentation, and review content for accuracy, consistency, and quality while meeting deadlines.' },
   { period: '2022 to 2023', title: 'Content Writer', company: 'BollywoodMDB', description: 'Conducted extensive online research, extracted relevant information, and reviewed web content for accuracy, consistency, and completeness.' },
-  { period: 'Certification + internship', title: 'Content Writing / Academic Writing', company: 'IIM SKILLS / Freelance Projects', description: 'Built research, documentation, proofreading, and quality-control skills through blogs, articles, academic content, and web-based information.' },
+  { period: '2023 to 2024', title: 'Deloitte | Data Analytics Job Simulation', company: 'Deloitte', description: 'Participated in a simulated data analytics role, applying analytical skills to real-world scenarios and business problems.' },
 ]
 
 const skills = [
